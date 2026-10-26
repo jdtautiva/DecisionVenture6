@@ -2,12 +2,6 @@
 
 > **Interactive marketing simulator focused on marketing mix coherence, implementation, performance indicators, budget control, and evidence-based corrective decisions.**  
 > Developed for **undergraduate marketing and managerial decision-making courses** by **Julián Díaz Tautiva, PhD**
-
-# DecisionVenture 1 — Innovation Metrics Decision Simulator
-
-> **Interactive managerial economics simulator focused on innovation metrics, business model evaluation, and financial decision-making.**  
-> Developed for the **Managerial Economics** course by **Julián Díaz Tautiva, PhD**
-
 ---
 ## Overview
 
