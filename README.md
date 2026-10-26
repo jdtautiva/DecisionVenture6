@@ -1,8 +1,4 @@
 ---
-output:
-  github_document:
-    html_preview: false
----
 # DecisionVenture6 — Marketing Planning and Operational Control Simulator
 
 > **Interactive marketing simulator focused on marketing mix coherence, implementation, performance indicators, budget control, and evidence-based corrective decisions.**  
